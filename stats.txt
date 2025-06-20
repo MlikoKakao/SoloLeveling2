@@ -1,0 +1,7 @@
+str: 1
+vit: 0
+mp: 0
+agl: 1
+hp: 0
+sns: 1
+intel: 0
